@@ -6,7 +6,7 @@ Date,Temp_Max(° F),Temp_Avg(° F),Temp_Min(° F),Dew_Max(° F),Dew_Avg(° F),De
 2020-07-05,     93, 82.7, 76,        74, 72.5, 71,      91, 72.3, 52,     16, 9.6, 6,      30.0, 30.0, 29.9,   0.00,    Washington, District of Columbia,   USA
 2020-07-06,     95, 80.5, 73,        75, 71.4, 68,      90, 74.7, 44,     44, 15.8,0,      30.1, 30.0, 29.9,   0.00,    Washington, District of Columbia,   USA
 2020-07-07,     90, 77.2, 71,        77, 71.3, 68,      96, 82.6, 57,     23, 9.6, 0,      30.1, 30.0, 30.0,   2.47,    Washington, District of Columbia,   USA
-2020-0-08,     91, 82.7, 76,        74, 71.0, 64,      94, 69.7, 42,     13, 7.6, 3,      30.0, 30.0, 29.9,   0.00,    Washington, District of Columbia,   USA
+2020-07-08,     91, 82.7, 76,        74, 71.0, 64,      94, 69.7, 42,     13, 7.6, 3,      30.0, 30.0, 29.9,   0.00,    Washington, District of Columbia,   USA
 2020-07-09,     89, 81.6, 76,        74, 72.0, 68,      91, 73.9, 51,     12, 6.7, 0,      30.0, 29.9, 29.9,   0.00,    Washington, District of Columbia,   USA
 2020-07-10,    90, 81.8, 77,        73, 72.1, 70,      88, 73.1, 54,     16, 10.6,3,      29.9, 29.8, 29.7,   0.00,    Washington, District of Columbia,   USA
 2020-07-11,    92, 83.1, 76,        73, 67.8, 61,      82, 62.0, 35,     17, 9.0, 0,      29.8, 29.7, 29.7,   0.00,    Washington, District of Columbia,   USA
