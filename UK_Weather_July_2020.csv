@@ -1,4 +1,4 @@
-Date,Temp_Max(° F),Temp_Avg(° F),Temp_Min(° F),Dew_Max(° F),Dew_Avg(° F),Dew_Min(° F),Humidity_Max(%),Humidity_Avg(%),Humidity_Min(%),Wind_Speed_Max(mph),Wind_Speed_Avg(mph),Wind_Speed_Min(mph),Pressure_Max(Hg),Pressure_Avg(Hg),Pressure_Min(Hg),Precipitation(in)
+Date,Temp_Max(° F),Temp_Avg(° F),Temp_Min(° F),Dew_Max(° F),Dew_Avg(° F),Dew_Min(° F),Humidity_Max(%),Humidity_Avg(%),Humidity_Min(%),Wind_Speed_Max(mph),Wind_Speed_Avg(mph),Wind_Speed_Min(mph),Pressure_Max(Hg),Pressure_Avg(Hg),Pressure_Min(Hg),Precipitation(in),City,State,Country
 2020-07-01,      66, 60.5, 55,        57, 54.6, 52,      94, 81.5, 64,     12, 5.8, 0,      29.6, 29.5, 29.5,   0.00,   Liverpool,  England,    UK
 2020-07-02,      64, 58.8, 55,        59, 54.7, 50,      100, 87.1, 72,    16, 8.0, 0,      29.9, 29.7, 29.6,   0.00,   Liverpool,  England,    UK
 2020-07-03,      64, 60.0, 55,        59, 54.4, 50,      94, 81.8, 73,     23, 14.9, 6,     29.9, 29.7, 29.6,   0.00,   Liverpool,  England,    UK
